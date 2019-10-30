@@ -54,4 +54,4 @@ def create_csv_file(csv_output):
 
 
 if __name__ == '__main__':
-    create_csv_file(centos_scraper('http://mirror.rise.ph/centos/7/updates/x86_64/'))
+    create_csv_file(centos_scraper('http://mirror.rise.ph/centos/7/'))
